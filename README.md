@@ -6,7 +6,7 @@
   <p>
   <a href="https://manchan777.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:cbkdevelop57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cbkdevelop57@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bg-choi-482419278//" target="_blank"><img src="https://img.shields.io/badge/bg-choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>emsp;
+  <a href="https://www.linkedin.com/in/bg-choi-482419278//" target="_blank"><img src="https://img.shields.io/badge/bg-choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>&emsp;
   <a href="https://hits.seeyoufarm.com" ><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManchany777%2Fhit-counter&count_bg=%23ADEDE6&title_bg=%23555555&icon=github.svg&icon_color=%236CB7EA&title=hits&edge_flat=false"/></a>
   </p>
 <br/>
