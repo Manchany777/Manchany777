@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/bg-choi-482419278//" target="_blank"><img src="https://img.shields.io/badge/bg-choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 <br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManchany777%2Fhit-counter&count_bg=%23ADEDE6&title_bg=%23555555&icon=github.svg&icon_color=%236CB7EA&title=hits&edge_flat=false"/></a>
   
 👋 <b>매 순간 즐겁게 성장하는 개발자 꿈나무 입니다.</b>
 
@@ -81,21 +80,30 @@ watch the results in the right.
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+### FrontEnd
+- [HTML/CSS]
+- [Javascript] 
+- [Bootstrap]
+- [ReactJS]
+- [Ajax]
+- [jQuery]
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+### BackEnd
+- [JSP] : with [JSTL] and [EL]
+- [Java]
+- [Servlet]
+- [MyBatis]
+- [Spring]
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+### DataBase
+- [Oracle]
+- [MySQL]
+
+### DevOps
+- [Git]
+- [JenKins]
+- [NCloud] : NCA, NCP, NCE
+- [Docker]
 
 ## Education
 
@@ -112,6 +120,7 @@ And of course Dillinger itself is open source with a [public repository][dill]
 - 🌾 힙촌 : 러스틱 라이프를 원하는 사람들의 로컬 관광 애플리케이션 [앱스토어][Github]
 - 🎨 입사미PIC : 입시 미술 학원 ‘입사미’ 외주 애플리케이션 [앱스토어][Github]
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManchany777%2Fhit-counter&count_bg=%23ADEDE6&title_bg=%23555555&icon=github.svg&icon_color=%236CB7EA&title=hits&edge_flat=false"/></a>
 
 <!--
 **Manchany777/Manchany777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
