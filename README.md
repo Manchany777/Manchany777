@@ -2,12 +2,14 @@
 
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manchany777&layout=compact&hide_border=true&theme=radical)
 
-<div> 
+<div style="display: flex;"> 
   <p>
   <a href="https://manchan777.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:cbkdevelop57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cbkdevelop57@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bg-choi-482419278//" target="_blank"><img src="https://img.shields.io/badge/bg-choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-</p>
+
+  <a href="https://hits.seeyoufarm.com" style="margin-left: auto;"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManchany777%2Fhit-counter&count_bg=%23ADEDE6&title_bg=%23555555&icon=github.svg&icon_color=%236CB7EA&title=hits&edge_flat=false"/></a>
+  </p>
 <br/>
 
 [![Solved.ac
@@ -92,21 +94,12 @@ watch the results in the right.
 </p>
 </div>
 </div>
-  
-
-
- 
 
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
 
-
 <br/>
-
-## Tech
-
-
 
 ## Education
 
@@ -125,7 +118,6 @@ watch the results in the right.
 - 🌾 힙촌 : 러스틱 라이프를 원하는 사람들의 로컬 관광 애플리케이션 [앱스토어][Github]
 - 🎨 입사미PIC : 입시 미술 학원 ‘입사미’ 외주 애플리케이션 [앱스토어][Github]
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManchany777%2Fhit-counter&count_bg=%23ADEDE6&title_bg=%23555555&icon=github.svg&icon_color=%236CB7EA&title=hits&edge_flat=false"/></a>
 
 <!--
 **Manchany777/Manchany777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
