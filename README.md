@@ -66,17 +66,17 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AJAX-E34F26?style=flat&logo=AJAX&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/AJAX-5BD5F5?style=flat&logo=AJAX&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/XML-E34F26?style=flat&logo=XML&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/XML-FFC300?style=flat&logo=XML&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 </p>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JSP-E34F26?style=flat&logo=JSP&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JSTL-E34F26?style=flat&logo=JSTL&logoColor=white">
-  <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JSP-A57EF9?style=flat&logo=JSP&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JSTL-A57EF9?style=flat&logo=JSTL&logoColor=white">
+  <img src="https://img.shields.io/badge/EL-A57EF9?style=flat&logo=EL&logoColor=white"> 
   <img src="https://img.shields.io/badge/Servlet-E34F26?style=flat&logo=Servlet&logoColor=white"> 
   <img src="https://img.shields.io/badge/MyBatis-E34F26?style=flat&logo=MyBatis&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
