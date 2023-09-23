@@ -23,7 +23,7 @@
 </p>
  
 > Life is like a box of chocolates, You never know what you're gonna get. 
-> Don't give up easily even if you failed.
+> Don't give up easily even if you failed.<br>
 > I find the harder I work, the more luck I have.
 > Only I can change my life, no one can do it for me
 
