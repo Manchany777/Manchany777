@@ -78,19 +78,22 @@
   <img src="https://img.shields.io/badge/Servlet-E34F26?style=flat&logo=Servlet&logoColor=white"> 
   <img src="https://img.shields.io/badge/MyBatis-E34F26?style=flat&logo=MyBatis&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring%Framework-6DB33F?style=flat&logo=Spring%Framework&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring%MVC-6DB33F?style=flat&logo=Springk&logoColor=white"> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> 
   
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Lombok-E34F26?style=flat&logo=Lombok&logoColor=white"> 
   <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
   <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
-  
-  
-  
-  
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
    
-  
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
   <br>
-     
+      
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=#E34F26&logoColor=white">
       
@@ -98,8 +101,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 </p>
 </div>
 </div>
