@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/bg-choi-482419278//" target="_blank"><img src="https://img.shields.io/badge/bg-choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <a href="https://hits.seeyoufarm.com" ><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManchany777%2Fhit-counter&count_bg=%23ADEDE6&title_bg=%23555555&icon=github.svg&icon_color=%236CB7EA&title=hits&edge_flat=false"/></a>
   </p>
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bestmtni)](https://solved.ac/bestmtni)
 <br/>
  
 ## Introduce
@@ -33,10 +30,8 @@
 > looking like it's been marked up with tags
 > or formatting instructions.
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bestmtni)](https://solved.ac/bestmtni)
 
 ## Platforms & Languages
 
