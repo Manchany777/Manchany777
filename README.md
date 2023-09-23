@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Choi's%20Github&fontSize=90)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&theme=radical)
 
 <div> 
   <p>
