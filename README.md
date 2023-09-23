@@ -103,16 +103,16 @@ watch the results in the right.
 
 ## Certification
 
-> 🙋‍♀️ 정보처리기사 1급<br/>
+> 🙋‍♀️ <b>정보처리기사 1급</b><br/>
 > 📆 취득일 : 23년 8월
 
-> 🙋‍♂️ SQLD<br/>
+> 🙋‍♂️ <b>SQLD</b><br/>
 > 📆 취득일 : 23년 3월
 
-> 🙆‍♂️ 컴퓨터활용능력 1급<br/>
+> 🙆‍♂️ <b>컴퓨터활용능력 1급</b><br/>
 > 📆 취득일 : 23년 6월
 
-> 🙆‍♀️ ITQ Excel 만점<br/>
+> 🙆‍♀️ <b>ITQ Excel 만점</b><br/>
 > 📆 취득일 : 23년 7월
 
 <br>
