@@ -70,7 +70,9 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">
   <img src="https://img.shields.io/badge/XML-E34F26?style=flat&logo=XML&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
-  <br> 
+</p>
+<br/>
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/JSP-E34F26?style=flat&logo=JSP&logoColor=white"> 
   <img src="https://img.shields.io/badge/JSTL-E34F26?style=flat&logo=JSTL&logoColor=white">
@@ -83,22 +85,14 @@
   <br>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"> 
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Lombok-092E20?style=flat&logo=django&logoColor=white"> 
-  <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
-  <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Lombok-092E20?style=flat&logo=Lombok&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
-  <br> 
-  
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=#E34F26&logoColor=white">
-      
-  <br>
 </p>
-
+<br/>
 <p>
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
