@@ -9,7 +9,12 @@
   <a href="https://www.linkedin.com/in/bg-choi-482419278//" target="_blank"><img src="https://img.shields.io/badge/bg-choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 <br/>
-  
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bestmtni)](https://solved.ac/bestmtni)
+
+## Introduce
+
 👋 <b>매 순간 즐겁게 성장하는 개발자 꿈나무 입니다.</b>
 
 <p>
@@ -19,10 +24,53 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
+- Import a HTML file and watch it magically convert to Markdown
+- Drag and drop images (requires your Dropbox account be linked)
+- Import and save files from GitHub, Dropbox, Google Drive and One Drive
+- Drag and drop markdown and HTML files into Dillinger
+- Export documents as Markdown, HTML and PDF
+
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
+
+This text you see here is *actually- written in Markdown! To get a feel
+for Markdown's syntax, type some text into the left window and
+watch the results in the right.
+
 
 ## Platforms & Languages
 <p>
-  
+  ### FrontEnd
+- [HTML/CSS]
+- [Javascript] 
+- [Bootstrap]
+- [ReactJS]
+- [Ajax]
+- [jQuery]
+
+### BackEnd
+- [JSP] : with [JSTL] and [EL]
+- [Java]
+- [Servlet]
+- [MyBatis]
+- [Spring]
+
+### DataBase
+- [Oracle]
+- [MySQL]
+
+### DevOps
+- [Git]
+- [JenKins]
+- [NCloud] : NCA, NCP, NCE
+- [Docker]
+
+<br/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -54,56 +102,12 @@
 - See HTML in the right
 - ✨Magic ✨
 
-## Experiences
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
-
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+<br/>
 
 ## Tech
 
-### FrontEnd
-- [HTML/CSS]
-- [Javascript] 
-- [Bootstrap]
-- [ReactJS]
-- [Ajax]
-- [jQuery]
 
-### BackEnd
-- [JSP] : with [JSTL] and [EL]
-- [Java]
-- [Servlet]
-- [MyBatis]
-- [Spring]
-
-### DataBase
-- [Oracle]
-- [MySQL]
-
-### DevOps
-- [Git]
-- [JenKins]
-- [NCloud] : NCA, NCP, NCE
-- [Docker]
 
 ## Education
 
@@ -112,6 +116,8 @@ watch the results in the right.
 - 네이버 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정 프로젝트 (2023.11 ~ 2023.12)
 - 한국품질재단 빅데이터 플랫폼 웹 개발자 과정 본과정 (2022.09 ~ 2022.11)
 - 한국품질재단 빅데이터 플랫폼 웹 개발자 과정 프로젝트 (2022.12 ~ 2023.01)
+
+<br/>
 
 ## Development
 
