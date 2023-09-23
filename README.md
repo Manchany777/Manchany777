@@ -67,12 +67,12 @@
   <br>  
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
      <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=#E34F26&logoColor=white">
       <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 </p>
@@ -140,7 +140,8 @@ Here are some ideas to get you started:
 
 https://github.com/beomsoo0#-experiences
 https://github.com/YooHyeok
-[![백준 코](https://github.com/mazassumnida/mazassumnida)
+[![백준 코드](https://github.com/mazassumnida/mazassumnida)
+[![마크다운 온라인 코딩 사이트]https://dillinger.io/
 
 ## Plugins
 
