@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Choi's%20Github&fontSize=90)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manchany777&layout=compact&hide_border=true&theme=radical)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manchany777&layout=compact&hide_border=true&theme=radical)
 
 <div> 
   <p>
@@ -11,17 +11,16 @@
 <br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bestmtni)](https://solved.ac/bestmtni)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ## Introduce
 
 👋 <b>매 순간 즐겁게 성장하는 개발자 꿈나무 입니다.</b>
 
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  자바를 기반으로 하는 백엔드 개발자를 꿈꾸고 있습니다.<br/>
+  지금 막 내딛은 첫걸음이 훗날 위대한 도약을 위한 발판이라 믿습니다.<br/><br/>
+  개발자 입장을 넘어서 사용자 입장까지 고려하는 개발자가 되도록 하겠습니다. ✨ <br/><br/>
 </p>
 
 - Import a HTML file and watch it magically convert to Markdown
