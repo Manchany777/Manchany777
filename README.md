@@ -72,7 +72,6 @@
   <img src="https://img.shields.io/badge/XML-FFC300?style=flat&logo=XML&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 </p>
-<br/>
 <p>
 <h4>BackEnd : </h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
@@ -85,19 +84,16 @@
   <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> 
 </p>  
-<br>
 <p>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"> 
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> 
   <img src="https://img.shields.io/badge/Lombok-092E20?style=flat&logo=Lombok&logoColor=white"> 
 </p>
-<br>
 <p>
 <h4>DataBase : </h4>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
 </p>
-<br/>
 <p>
 <h4>DevOps : </h4>
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
