@@ -83,7 +83,7 @@
   <br>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"> 
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Lombok-E34F26?style=flat&logo=Lombok&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Lombok-092E20?style=flat&logo=django&logoColor=white"> 
   <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
   <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
   <br> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+  
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=#E34F26&logoColor=white">
       
   <br>
