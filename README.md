@@ -50,7 +50,7 @@ watch the results in the right.
 
 ### BackEnd
 - [JSP] : with [JSTL] and [EL]
-- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> : [Java]
+- [Java]
 - [Servlet]
 - [MyBatis]
 - [Spring]
@@ -92,6 +92,24 @@ watch the results in the right.
 
 <br/>
 
+## Project
+
+- 🧑🏻‍💻 팀조인 : 구인구직 매칭을 위한 에타 기반의 웹사이트 [웹사이트][<a href="https://github.com/Manchany777/myproject" target="_blank">Github</a>]
+- 🔋 크림 : 크림 쇼핑몰 기능 구현을 위한 클론 코딩 프로젝트 [웹사이트]
+- 🌾 미정 : --- [---][---]
+- 🎨 미정 : --- [---][---]
+
+<br>
+
+## Certification
+
+> 🧑🏻‍💻 정보처리기사
+> 🔋 SQLD
+> 🌾 컴퓨터활용능력 1급
+> 🎨 ITQ Excel 만점
+
+<br>
+
 ## Education
 
 - 한세대학교 경영학과 졸업 (2007.03 ~ 2013.02)
@@ -99,15 +117,6 @@ watch the results in the right.
 - 네이버 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정 프로젝트 (2023.11 ~ 2023.12)
 - 한국품질재단 빅데이터 플랫폼 웹 개발자 과정 본과정 (2022.09 ~ 2022.11)
 - 한국품질재단 빅데이터 플랫폼 웹 개발자 과정 프로젝트 (2022.12 ~ 2023.01)
-
-<br/>
-
-## Development
-
-- 🧑🏻‍💻 모각코: 개발자들을 위한 모각코 모임 에플리케이션 [앱스토어][Github]
-- 🔋 충전했오 : 모든 전기차 충전, 통합 결제 애플리케이션 [앱스토어]
-- 🌾 힙촌 : 러스틱 라이프를 원하는 사람들의 로컬 관광 애플리케이션 [앱스토어][Github]
-- 🎨 입사미PIC : 입시 미술 학원 ‘입사미’ 외주 애플리케이션 [앱스토어][Github]
 
 
 <!--
@@ -126,7 +135,10 @@ Here are some ideas to get you started:
 -->
 
 <!--
-## License
+## Reference
+
+https://github.com/beomsoo0#-experiences
+https://github.com/YooHyeok
 
 ## Plugins
 
