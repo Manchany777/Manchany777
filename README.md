@@ -16,11 +16,11 @@
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
-![Anurag's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manchany777&layout=compact&hide_border=true&theme=radical)
+![Anurag's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manchany777&layout=compact&hide_border=true&theme=radical)
   
  
 
-
+ 
   
   
 
