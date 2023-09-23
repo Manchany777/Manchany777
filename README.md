@@ -67,11 +67,11 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   <br> 
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">
-
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=React&logoColor=white">
 
   
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
   
