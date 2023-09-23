@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Servlet-E34F26?style=flat&logo=Servlet&logoColor=white"> 
   <img src="https://img.shields.io/badge/MyBatis-E34F26?style=flat&logo=MyBatis&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Springk&logoColor=white"> 
+  <img src="https://img.shields.io/badge/SpringMVC-6DB33F?style=flat&logo=Springk&logoColor=white"> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> 
 </p>  
 <br>
