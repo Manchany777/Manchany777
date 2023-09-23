@@ -103,10 +103,10 @@ watch the results in the right.
 
 ## Certification
 
-> 정보처리기사 1급
-> SQLD
-> 컴퓨터활용능력 1급
-> ITQ Excel 만점
+> 정보처리기사 1급<br/>
+> SQLD<br/>
+> 컴퓨터활용능력 1급<br/>
+> ITQ Excel 만점<br/>
 
 <br>
 
