@@ -2,8 +2,8 @@
 
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manchany777&layout=compact&hide_border=true&theme=radical)
 
-<div style="display: flex;"> 
-  <p>
+<div> 
+  <p style="display: flex;">
   <a href="https://manchan777.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:cbkdevelop57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cbkdevelop57@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bg-choi-482419278//" target="_blank"><img src="https://img.shields.io/badge/bg-choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 <br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bestmtni)](https://solved.ac/bestmtni)
 
 ## Introduce
 
