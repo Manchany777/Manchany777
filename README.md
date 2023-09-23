@@ -8,6 +8,11 @@
   <a href="mailto:cbkdevelop57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cbkdevelop57@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bg-choi-482419278//" target="_blank"><img src="https://img.shields.io/badge/bg-choi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
+<br/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManchany777%2Fhit-counter&count_bg=%23ADEDE6&title_bg=%23555555&icon=github.svg&icon_color=%236CB7EA&title=hits&edge_flat=false"/></a>
+  
+👋 <b>매 순간 즐겁게 성장하는 개발자 꿈나무 입니다.</b>
+
 <p>
   Hello I am a new developer specializing in machine learning.<br/>
   We are working on it based on Python DJango.<br/><br/>
@@ -42,29 +47,15 @@
 </div>
 </div>
   
-<!--
-**Manchany777/Manchany777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  
-👋 매 순간 즐겁게 성장하는 개발자 꿈나무 입니다.
-
 
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
 
-## Features
+## Experiences
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
@@ -106,24 +97,39 @@ to Markdown converter
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
-## Installation
+## Education
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+- 한세대학교 경영학과 졸업 (2007.03 ~ 2013.02)
+- 네이버 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정 본과정 (2023.06 ~ 2023.10)
+- 네이버 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정 프로젝트 (2023.11 ~ 2023.12)
+- 한국품질재단 빅데이터 플랫폼 웹 개발자 과정 본과정 (2022.09 ~ 2022.11)
+- 한국품질재단 빅데이터 플랫폼 웹 개발자 과정 프로젝트 (2022.12 ~ 2023.01)
 
-Install the dependencies and devDependencies and start the server.
+## Development
 
-```sh
-cd dillinger
-npm i
-node app
-```
+- 🧑🏻‍💻 모각코: 개발자들을 위한 모각코 모임 에플리케이션 [앱스토어][Github]
+- 🔋 충전했오 : 모든 전기차 충전, 통합 결제 애플리케이션 [앱스토어]
+- 🌾 힙촌 : 러스틱 라이프를 원하는 사람들의 로컬 관광 애플리케이션 [앱스토어][Github]
+- 🎨 입사미PIC : 입시 미술 학원 ‘입사미’ 외주 애플리케이션 [앱스토어][Github]
 
-For production environments...
 
-```sh
-npm install --production
-NODE_ENV=production node app
-```
+<!--
+**Manchany777/Manchany777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!--
+## License
 
 ## Plugins
 
@@ -138,80 +144,4 @@ Instructions on how to use them in your own application are linked below.
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
-
-```sh
-node app
-```
-
-Second Tab:
-
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
+-->
