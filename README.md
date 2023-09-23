@@ -61,14 +61,14 @@
  
 <p>
 <br/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/AJAX-E34F26?style=flat&logo=AJAX&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">
-  <img src="https://img.shields.io/badge/XML-E34F26?style=flat&logo=XML&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/AJAX-E34F26?style=flat&logo=AJAX&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/XML-E34F26?style=flat&logo=XML&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 </p>
 <br/>
@@ -82,15 +82,17 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Springk&logoColor=white"> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> 
-  <br>
+</p>  
+<br>
+<p>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"> 
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> 
   <img src="https://img.shields.io/badge/Lombok-092E20?style=flat&logo=Lombok&logoColor=white"> 
-  <br>
+</p>
+<br>
+<p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
-  <img src="https://img.shields.io/badge/EL-E34F26?style=flat&logo=EL&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
 </p>
 <br/>
 <p>
@@ -160,6 +162,7 @@ https://github.com/beomsoo0#-experiences
 https://github.com/YooHyeok
 [![백준 코드](https://github.com/mazassumnida/mazassumnida)
 [![마크다운 온라인 코딩 사이트]https://dillinger.io/
+[![심플 아이]https://simpleicons.org/
 
 ## Plugins
 
