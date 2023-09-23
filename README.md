@@ -60,6 +60,7 @@
 - [Docker]
  
 <p>
+<h4>FrontEnd</h4>
 <br/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> &nbsp;
@@ -73,6 +74,7 @@
 </p>
 <br/>
 <p>
+<h4>BackEnd</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/JSP-A57EF9?style=flat&logo=JSP&logoColor=white"> 
   <img src="https://img.shields.io/badge/JSTL-A57EF9?style=flat&logo=JSTL&logoColor=white">
@@ -91,11 +93,13 @@
 </p>
 <br>
 <p>
+<h4>DataBase</h4>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
 </p>
 <br/>
 <p>
+<h4>DevOps</h4>
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
