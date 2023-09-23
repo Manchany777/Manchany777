@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Choi's%20Github&fontSize=90)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manchany777&layout=compact&hide_border=true&theme=radical)
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Manchany777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manchany777&layout=compact&hide_border=true&theme=radical)
 
 <div> 
   <p>
@@ -20,14 +20,14 @@
 <p>
   자바를 기반으로 하는 백엔드 개발자를 꿈꾸고 있습니다.<br/>
   지금 막 내딛은 첫걸음이 훗날 위대한 도약을 위한 발판이라 믿습니다.<br/><br/>
-  개발자 입장을 넘어서 사용자 입장까지 고려하는 개발자가 되도록 하겠습니다. ✨ <br/><br/>
+  공부를 게을리하지 않는, 나태하지 않는 자신이 되기 위해 채찍질 하고 있습니다.<br/><br/>
+  개발자 입장을 넘어서 사용자 입장까지 고려할 수 있 개발자가 되는게 목표입니다. ✨ <br/><br/>
 </p>
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- 자바를 기반으로 하는 백엔드 개발자를 꿈꾸고 있습니다.
+- 지금 막 내딛은 첫걸음이 훗날 위대한 도약을 위한 발판이라 믿습니다.
+- 공부를 게을리하지 않는, 나태하지 않는 자신이 되기 위해 채찍질 하고 있습니다.
+- 개발자 입장을 넘어서 사용자 입장까지 고려할 수 있 개발자가 되는게 목표입니다. ✨
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
