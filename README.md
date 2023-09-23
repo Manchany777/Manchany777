@@ -22,13 +22,10 @@
   개발자 입장을 넘어서 사용자 입장까지 고려할 수 있 개발자가 되는게 목표입니다. ✨ <br/><br/>
 </p>
  
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> Life is like a box of chocolates, You never know what you're gonna get. 
+> Don't give up easily even if you failed.
+> I find the harder I work, the more luck I have.
+> Only I can change my life, no one can do it for me
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bestmtni)](https://solved.ac/bestmtni)
