@@ -21,7 +21,7 @@
   공부를 게을리하지 않는, 나태하지 않는 자신이 되기 위해 채찍질 하고 있습니다.<br/>
   개발자 입장을 넘어서 사용자 입장까지 고려할 수 있 개발자가 되는게 목표입니다. ✨ <br/><br/>
 </p>
-
+ 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
 > as possible. The idea is that a
