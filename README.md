@@ -66,8 +66,11 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   <br> 
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">
+
+
   
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
@@ -80,7 +83,7 @@
   
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
   <br>
-     <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+     
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=#E34F26&logoColor=white">
       
