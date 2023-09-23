@@ -40,8 +40,7 @@ watch the results in the right.
 
 ## Platforms & Languages
 
-<p>
-  ### FrontEnd
+### FrontEnd
 - [HTML/CSS]
 - [Javascript] 
 - [Bootstrap]
@@ -51,7 +50,7 @@ watch the results in the right.
 
 ### BackEnd
 - [JSP] : with [JSTL] and [EL]
-- [Java]
+- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> : [Java]
 - [Servlet]
 - [MyBatis]
 - [Spring]
@@ -66,6 +65,7 @@ watch the results in the right.
 - [NCloud] : NCA, NCP, NCE
 - [Docker]
 
+<p>
 <br/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -89,10 +89,6 @@ watch the results in the right.
 </p>
 </div>
 </div>
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
 <br/>
 
