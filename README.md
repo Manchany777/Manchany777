@@ -66,8 +66,8 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Ajax-E34F26?style=flat&logo=Ajax&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Ajax-E34F26?style=flat&logo=AJAX&logoColor=white">
+  <img src="https://img.shields.io/badge/AJAX-E34F26?style=flat&logo=AJAX&logoColor=white"> 
+  <img src="https://img.shields.io/badge/XML-E34F26?style=flat&logo=XML&logoColor=white">
   <img src="https://img.shields.io/badge/Ajax-E34F26?style=flat&logo=ajax&logoColor=white"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
   <br> 
