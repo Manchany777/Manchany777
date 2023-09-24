@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/NCloud-03C75A?style=flat&logo=naver&logoColor=white">
 </p>
 </div>
