@@ -106,9 +106,9 @@
 
 ## Project
 
-- 🧑🏻‍💻 <b>팀조인</b> : 구인구직 매칭을 위한 에타 기반의 웹사이트 [웹사이트][<a href="https://github.com/Manchany777/myproject" target="_blank">Github</a>]
+- 🧑🏻‍💻 <b>팀조인</b> : 구인구직 매칭을 위한 에타 기반의 웹사이트 [웹사이트][<a href="https://github.com/Manchany777/myproject" target="_blank">GitHub</a>]
 - 🔋 <b>크림</b> : 크림 쇼핑몰 기능 구현을 위한 클론 코딩 프로젝트 [웹사이트]
-- 🌾 미정 : --- [---][---]
+- 🌾 <b>플러독</b> : 애견 연애/산책 매칭 및 애견인들의 만을 위한 플랫폼 [웹사이트][<a href="https://github.com/Manchany777/flirdog.git">GitHub</a>]
 - 🎨 미정 : --- [---][---]
 
 <br>
