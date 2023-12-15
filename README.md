@@ -47,6 +47,7 @@
 - [Java]
 - [Servlet]
 - [MyBatis]
+- [Spring Data JPA]
 - [Spring]
 
 ### DataBase
@@ -83,6 +84,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Spring&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=Spring&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Lombok-092E20?style=flat&logo=Lombok&logoColor=white"> 
